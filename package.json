@@ -1,0 +1,23 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "CV ROLANDO FLORES MEZA",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolaxproblema12/landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolaxproblema12/landing/issues"
+  },
+  "homepage": "https://github.com/rolaxproblema12/landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
